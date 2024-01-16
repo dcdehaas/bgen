@@ -1,3 +1,7 @@
+# Just a fork
+
+NOTE: I am not the author of this library. This is just a fork of https://github.com/limix/bgen for bug fixes (since that seems to no longer be maintained).
+
 # bgen
 
 A [BGEN file format](http://www.well.ox.ac.uk/~gav/bgen_format/) reader.
